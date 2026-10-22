@@ -36,3 +36,15 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+
+node_modules/
+!.env.example
+*.pyc
+.next/
+*.session
+*.session-journal
+cookies.txt
+*.log
+coverage/
+.fin_guardian_credentials.json
+fin_guardian.db
